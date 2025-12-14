@@ -7,6 +7,8 @@ This repository contains basic C++ programs for practice.
 - Loops
 - Functions
 - Arrays
+
+### topics studied (to be covered)
 - linkedlists
 - Queue
 - stack
